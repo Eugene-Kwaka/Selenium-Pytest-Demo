@@ -14,7 +14,7 @@ mkdir tests
 cd tests
 create a __init__.py file
 ```
-click on CTRL+SHIFT+P and type Python:Configure Tests. Then click on tests
+click on ``` CTRL+SHIFT+P ``` and type ``` Python:Configure Tests ```. Then click on ``` tests ```
 
 
 ## On The Terminal
